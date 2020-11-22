@@ -20,7 +20,7 @@ Myles also runs www.jmfscreenlabs.com with cousin Frank Blasonato where they wri
 Myles hosts the The Storycast Podcast over at www.jmfstorycast.podbean.com
 
 ## Kash Karnival (Game 1)
-A casual mobile experience where players can bet and win real money!
+A casual mobile experience where players can bet and win real money!  
 [Play Now on iOS!](http://ow.ly/r2hL304ZXPx)  
 [Play Now on Android!](http://ow.ly/jLDT304ZXS7)
 
