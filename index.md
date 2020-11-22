@@ -25,3 +25,4 @@ A casual mobile experience where players can bet and win real money!</br>
 [**Play Now on Android!**](http://ow.ly/jLDT304ZXS7)
 
 ## Contact
+If you have any enqueries or are in need of a savvy game designer then please get in touch at [mylesblasonato.gamedesign@gmail.com](mailto:mylesblasonato.gamedesign@gmail.com)
