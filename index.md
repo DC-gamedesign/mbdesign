@@ -1,3 +1,7 @@
+---
+title: Portfolio
+---
+
 <img align="centre" width="540" height="390" src="https://github.com/mylesblasonato/mbdesign/blob/main/fableCraftLogo.png?raw=true">
 
 # MB Design
