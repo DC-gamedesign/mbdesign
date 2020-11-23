@@ -15,9 +15,9 @@ Myles Blasonato is a passionate individual who's had the opportunity to work wit
 
 Recently, Myles has been using his game design, creative direction, production and writing experience to teach the next generation of talent at the Academy of Interactive Entertainment while developing his own solo games and screenplays.
 
-Myles also runs www.jmfscreenlabs.com with cousin Frank Blasonato where they write screenplays and talk about writing techniques.
+Myles also runs [www.jmfscreenlabs.com](www.jmfscreenlabs.com) with cousin Frank Blasonato where they write screenplays and talk about writing techniques.
 
-Myles hosts the The Storycast Podcast over at www.jmfstorycast.podbean.com
+Myles hosts the The Storycast Podcast over at [www.jmfstorycast.podbean.com](www.jmfstorycast.podbean.com)
 
 ## Kash Karnival (Game 1)
 A casual mobile experience where players can bet and win real money!  
